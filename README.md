@@ -4,3 +4,4 @@ This application was written as part of a university group project. The aim of t
 # Features
 - 2-4 players
 - Watch available game
+- TCP socket
